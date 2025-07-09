@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "software Eng. lecture note
+title: "software Eng. lecture note"
 permalink: /docs/softwareEng2025
 ---
 # ソフトウェア工学(第1回~第6回)のまとめ
